@@ -38,6 +38,8 @@ h1 {
     font-weight: 550;
     padding: .3rem;
     cursor: move;
+    text-transform: uppercase;
+    background-color: darkgray;
 }
 
 .right {
@@ -45,9 +47,9 @@ h1 {
 }
 
 .kinda {
-    background-color: orange;
+    background-color: orange !important;
 }
 
 .wrong {
-    background-color: rgb(122, 122, 122);
+    background-color: rgb(122, 122, 122) !important;
 }
